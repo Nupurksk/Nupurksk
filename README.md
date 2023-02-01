@@ -1,9 +1,9 @@
 
-<strong>
+<h2>
 - 👋 Hi, I’m Nupur Kaushik
 - 🌱 Done my BTech in CSE
 - 🌱 Pursuing my MTech in Cyber Forensics and Information Security from Lovely Professional University 
-- 📫 How to reach me nupurkaushiknk@gmail.com  </strong>
+- 📫 How to reach me nupurkaushiknk@gmail.com  </h2>
 
 
 <h4>
